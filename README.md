@@ -1,2 +1,2 @@
 # gotrain
-go homework
+go test
